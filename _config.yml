@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Antonio Vilches / About"
 title_separator          : "-"
 name                     : &name "Antonio Vilches"
-description              : &description "Ph.D. in Computer Sciences. I'm interested in building effient parallel and distributed systems."
+description              : &description "Ph.D. in Computer Sciences. I'm interested in building parallel and distributed systems."
 url                      : https://avilchess.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avilchess/qvilchess.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : avilchess
 facebook:
   username               :
   app_id                 :
@@ -73,7 +73,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-118464336-1
 
 
 # Site Author
